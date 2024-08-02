@@ -4,7 +4,7 @@ Here's the updated README file incorporating the provided project details and th
 
 # WietApp
 
-![WietApp Logo](flutter_01.png)
+Web app url: https://wietapp.vercel.app/
 
 WietApp is an innovative mobile application developed using Flutter, providing a seamless experience for managing your cat's activities and tiers. This app is designed to help cat owners keep track of their pets' well-being and ensure they are always in their best condition.
 
